@@ -1,3 +1,6 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Van-wise/magicanimate-colab/blob/main/magicanimate-colab.ipynb)
+
 ---
 title: MagicAnimate
 emoji: 💃
