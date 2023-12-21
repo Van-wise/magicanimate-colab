@@ -16,3 +16,4 @@ models:
  - stabilityai/sd-vae-ft-mse
 pinned: false
 ---
+https://github.com/Van-wise/magicanimate-colab
